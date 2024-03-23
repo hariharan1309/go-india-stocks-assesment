@@ -1,10 +1,14 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 This also has Tailwiind Styles added so install Tailwind and configure before running the application
+
+Live Website Link: https://go-india-stocks-assesment-nu.vercel.app/
 ## Getting Started
 
 First, run the development server:
 
 ```bash
+npm install
+# then
 npm run dev
 # or
 yarn dev
